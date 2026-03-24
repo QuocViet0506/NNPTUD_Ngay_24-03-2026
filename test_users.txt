@@ -1,0 +1,14 @@
+Tạo file Excel với nội dung sau:
+
+Cột A (username) | Cột B (email)
+-----------------|-----------------
+username         | email
+testuser001      | testuser001@example.com
+testuser002      | testuser002@example.com
+testuser003      | testuser003@example.com
+
+Lưu file với tên: test_users.xlsx
+
+Sau đó:
+1. Tạo role "user" trước (nếu chưa có)
+2. Import file Excel này
